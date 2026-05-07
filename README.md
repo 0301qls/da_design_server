@@ -39,8 +39,6 @@ Ctrl+d
 
 * Install MongoDB >= 5.0.7
 
-<img width="654" height="324" alt="image" src="https://github.com/user-attachments/assets/3d8d2c8d-8cf0-4d0c-89bb-2d4a6cea64e0" />
-
 ### How to use
 
 TODO
